@@ -1,0 +1,146 @@
+body {
+background-image: url("img.png");
+    background-repeat: repeat;
+backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+
+}
+.MyCv{
+    background-color: rgba(240, 248, 255, 0.35);
+    border-radius: 48px;
+    color: royalblue ;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.Welcomep{
+    background-color: rgba(240, 248, 255, 0.35);
+    border-radius: 48px;
+    color: royalblue ;
+    margin-top: 5%;
+    margin-left: auto;
+    text-align: center;
+
+
+}
+.pr1{
+    font-size: 17px;
+    margin-top: 25px;
+
+}
+
+.bar1{
+    margin-top: 50px;
+
+}
+
+.progress{
+
+    margin-top: 50px;
+
+}
+.nav-tabs {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: 5px;
+}
+.accordion{
+    margin-top: 10px;
+}
+.whatsapp{
+
+    font-size: 30px;
+    margin-block-end: 10px;
+    margin-inline-end: 30px;
+    margin-top: 20px;
+}
+.col-8{
+    border-radius: 48px;
+    background-color: #545252;
+    color: rgb(255, 255, 255);
+    margin-top: 20%;
+    text-align: center;
+
+}
+.col-4 {
+
+    border-radius: 48px;
+    background-color: #545252;
+    color: rgb(255, 255, 255);
+    margin-top: 20%;
+    text-align: center;
+
+}
+.col-md-4{
+
+    grid-column: auto/span;
+}
+
+.col-md-8{
+    grid-column: auto/span;
+}
+.Edslid{
+    margin-top: 15%;
+
+}
+/* The side navigation menu */
+.sidebar {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: rgba(138, 138, 138, 0.68);
+    position: fixed;
+    height: 20%;
+    overflow: auto;
+}
+
+/* Sidebar links */
+.sidebar a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+}
+
+/* Active/current link */
+.sidebar a.active {
+    background-color: #04AA6D;
+    color: white;
+
+}
+
+/* Links on mouse-over */
+.sidebar a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: auto;
+    background-color: rgba(138, 138, 138, 0.68);
+
+}
+
+/* On screens that are less than 700px wide, make the sidebar into a topbar */
+@media screen and (max-width: 700px) {
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+}
+
+/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+@media screen and (max-width: 400px) {
+    .sidebar a {
+        text-align: center;
+        float: none;
+    }
+}
+
