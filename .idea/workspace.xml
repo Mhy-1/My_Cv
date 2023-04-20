@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a731c95c-3270-4dab-852f-320019ce0637" name="Changes" comment="">
+    <list default="true" id="a731c95c-3270-4dab-852f-320019ce0637" name="Changes" comment="last update">
+      <change afterPath="$PROJECT_DIR$/Lab4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/cv.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Eduaction.html" beforeDir="false" afterPath="$PROJECT_DIR$/Eduaction.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/Experience.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Works.html" beforeDir="false" afterPath="$PROJECT_DIR$/Works.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/photo/bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/photo/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pjs.png" beforeDir="false" afterPath="$PROJECT_DIR$/photo/pjs.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -50,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/mshar/WebstormProjects/My_Cv",
+    "last_opened_file_path": "C:/Users/mshar/WebstormProjects/My_Cv/photo",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,10 +61,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mshar\WebstormProjects\My_Cv\photo" />
       <recent name="C:\Users\mshar\WebstormProjects\My_Cv" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mshar\WebstormProjects\My_Cv\photo" />
+      <recent name="C:\Users\mshar\WebstormProjects\My_Cv" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -86,11 +87,23 @@
       <workItem from="1681162972061" duration="2747000" />
       <workItem from="1681242267146" duration="32000" />
       <workItem from="1681709162512" duration="2008000" />
-      <workItem from="1681934996656" duration="9478000" />
+      <workItem from="1681934996656" duration="22705000" />
     </task>
+    <task id="LOCAL-00001" summary="last update">
+      <created>1681944874171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681944874171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="last update" />
+    <option name="LAST_COMMIT_MESSAGE" value="last update" />
   </component>
 </project>
