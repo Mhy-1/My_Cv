@@ -28,6 +28,7 @@ a:hover{
 }
 
 footer{
+    display: inline-block;
     position: fixed;
     height: auto;
     width: 100%;
