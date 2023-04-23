@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a731c95c-3270-4dab-852f-320019ce0637" name="Changes" comment="last update">
-      <change afterPath="$PROJECT_DIR$/Lab4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/cv.png" afterDir="false" />
+    <list default="true" id="a731c95c-3270-4dab-852f-320019ce0637" name="Changes" comment="last update 10:21&#10;4/20/2023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Eduaction.html" beforeDir="false" afterPath="$PROJECT_DIR$/Eduaction.html" afterDir="false" />
@@ -42,23 +40,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/mshar/WebstormProjects/My_Cv/photo",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mshar/WebstormProjects/My_Cv/photo&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mshar\WebstormProjects\My_Cv\photo" />
@@ -87,7 +85,8 @@
       <workItem from="1681162972061" duration="2747000" />
       <workItem from="1681242267146" duration="32000" />
       <workItem from="1681709162512" duration="2008000" />
-      <workItem from="1681934996656" duration="22705000" />
+      <workItem from="1681934996656" duration="22999000" />
+      <workItem from="1682217234110" duration="21082000" />
     </task>
     <task id="LOCAL-00001" summary="last update">
       <created>1681944874171</created>
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681944874171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="last update 10:21&#10;4/20/2023">
+      <created>1681975289584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681975289584</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="last update" />
-    <option name="LAST_COMMIT_MESSAGE" value="last update" />
+    <MESSAGE value="last update 10:21&#10;4/20/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="last update 10:21&#10;4/20/2023" />
   </component>
 </project>
