@@ -29,13 +29,16 @@ a:hover{
 
 footer{
     position: fixed;
+    display: inline-block;
     height: auto;
     width: 100%;
+    visibility: visible;
 
 }
 
 .footer{
     display: flex;
+    visibility: visible;
 }
 
 
