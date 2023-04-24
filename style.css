@@ -5,6 +5,7 @@ body {
     background-repeat: repeat;
     backdrop-filter: blur(2px);
     -webkit-backdrop-filter: blur(2px);
+     height: auto;
 
 }
 
@@ -33,6 +34,10 @@ footer{
     height: auto;
     width: 100%;
 
+
+}
+.checked {
+    color: orange;
 }
 
 
@@ -117,15 +122,6 @@ width: 100%;
     border-radius: 18px;
     border: #000000 solid 3px;
     width: 95%;
-
-
-}
-
-.home_info_page_center{
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
 
 
 }
@@ -284,14 +280,156 @@ width: 100%;
 
 }
 
-.accordion{
-    margin-top: 10px;
+.Skills_detail{
+    margin-top: 20px;
+    background-color: rgba(230, 230, 230, 0.8);
+    width: 98%;
+    border-radius: 18px;
+    border: #000000 solid 3px;
+
+}
+.Skills_detail_cnter {
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 
-.Edslid{
-    margin-top: 15%;
+
+
+.sbox1{
+    margin: 20px;
+    background-color: rgba(230, 230, 230, 0.8);
+    border-radius: 18px;
+    border: #000000 solid 3px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 30%;
 
 }
+
+.sbox2{
+    margin: 20px;
+    background-color: rgba(230, 230, 230, 0.8);
+    border-radius: 18px;
+    border: #000000 solid 3px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 30%;
+
+}
+
+.sbox3{
+    margin: 20px;
+    background-color: rgba(230, 230, 230, 0.8);
+    border-radius: 18px;
+    border: #000000 solid 3px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 30%;
+
+}
+
+.sbox4{
+    margin: 20px;
+    background-color: rgba(230, 230, 230, 0.8);
+    border-radius: 18px;
+    border: #000000 solid 3px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 30%;
+
+}
+
+.sbox5{
+    margin: 20px;
+    background-color: rgba(230, 230, 230, 0.8);
+    border-radius: 18px;
+    border: #000000 solid 3px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 30%;
+
+}
+
+.sbox6{
+    margin: 20px;
+    background-color: rgba(230, 230, 230, 0.8);
+    border-radius: 18px;
+    border: #000000 solid 3px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 30%;
+
+}
+
+.sbox7{
+    margin: 20px;
+    background-color: rgba(230, 230, 230, 0.8);
+    border-radius: 18px;
+    border: #000000 solid 3px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 30%;
+
+}
+
+.sbox8{
+    margin: 20px;
+    background-color: rgba(230, 230, 230, 0.8);
+    border-radius: 18px;
+    border: #000000 solid 3px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 30%;
+
+}
+.sbox_center{
+    background-color: rgba(230, 230, 230, 0.8);
+    width: 94%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    border: #000000 solid 3px;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+
+
+}
+
+
+
+.sbox_center_cb{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+
 /* The side navigation menu */
 .sidebar {
     margin: 0;
@@ -398,6 +536,13 @@ width: 100%;
         padding: 10px;
 
     }
+    .sbox1,.sbox2,.sbox3,.sbox4,.sbox5,.sbox6,.sbox7,.sbox8{
+
+        width: 90%;
+        padding: 10px;
+
+    }
+
 }
 
 @media screen and (max-width: 576px) {
@@ -412,6 +557,13 @@ width: 100%;
         padding: 10px;
 
     }
+    .sbox1,.sbox2,.sbox3,.sbox4,.sbox5,.sbox6,.sbox7,.sbox8{
+
+        width: 90%;
+        padding: 10px;
+
+    }
+
 
     .inside_some_info{
         font-size: 30px;
