@@ -122,9 +122,16 @@ width: 100%;
     border-radius: 18px;
     border: #000000 solid 3px;
     width: 95%;
+}
 
+.home_info_page_center{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
+
 
 
 .S_E_E_M_C>div {
