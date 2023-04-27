@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a731c95c-3270-4dab-852f-320019ce0637" name="Changes" comment="last update">
-      <change afterPath="$PROJECT_DIR$/photo/ash1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/ash2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/ash3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/car1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/car2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/car3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/pbs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/pcpp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/pcss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/phtml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/ppython.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/preac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/professional-skills-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/psql.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/skills.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Works.html" beforeDir="false" afterPath="$PROJECT_DIR$/Works.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo/pjs.png" beforeDir="false" afterPath="$PROJECT_DIR$/photo/pjs.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +83,8 @@
       <workItem from="1682217234110" duration="26651000" />
       <workItem from="1682294438916" duration="19329000" />
       <workItem from="1682457966857" duration="4687000" />
-      <workItem from="1682621227236" duration="4408000" />
+      <workItem from="1682621227236" duration="4720000" />
+      <workItem from="1682626607154" duration="1929000" />
     </task>
     <task id="LOCAL-00001" summary="last update">
       <created>1681944874171</created>
@@ -188,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682364082422</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="last update">
+      <created>1682626115957</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682626115957</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
