@@ -583,6 +583,8 @@ width: 100%;
 
     body {
         background-size: auto;
+        height: auto;
+
     }
     .hbox1,.hbox2,.hbox3,.hbox4,.hbox5{
 
@@ -596,6 +598,16 @@ width: 100%;
         width: 90%;
         padding: 10px;
 
+    }
+    .content_info_page{
+        height: auto;
+        padding: 5px;
+        width: 100%;
+
+    }
+
+    .cv_download{
+        width: 80%;
     }
 
 
