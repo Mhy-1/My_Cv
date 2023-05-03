@@ -9,6 +9,7 @@ body {
     backdrop-filter: blur(2px);
     -webkit-backdrop-filter: blur(2px);
      height: auto;
+    font-family: 'Adamina', serif;font-size: 22px
 
 }
 
@@ -536,8 +537,88 @@ width: 100%;
 }
 
 
-/*screen size*/
+.container {
+    display: inline-block;
+    cursor: pointer;
+}
 
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+.change .bar1 {
+    transform: translate(0, 11px) rotate(-45deg);
+}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+    transform: translate(0, -11px) rotate(45deg);
+}
+
+
+.animation{
+
+    animation: type 4s steps(50);
+    overflow: hidden;
+    white-space: nowrap;
+
+}
+@keyframes type {
+
+    0%{
+        width: 0%;
+    }
+    30%{
+        width: 30%;
+    }
+    50%{
+        width: 50%;
+    }
+    75%{
+        width: 75%;
+    }
+
+
+}
+
+.animationf{
+
+    animation: type 6s steps(50);
+    overflow: hidden;
+    white-space: nowrap;
+
+}
+@keyframes type {
+
+    0%{
+        width: 0%;
+    }
+    30%{
+        width: 30%;
+    }
+    50%{
+        width: 50%;
+    }
+    75%{
+        width: 75%;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+/*screen size*/
 
 
 @media screen and (max-width: 1200px){
@@ -584,6 +665,8 @@ width: 100%;
     body {
         background-size: auto;
         height: auto;
+        font-family: 'Adamina', serif;font-size: 12px
+
 
     }
     .hbox1,.hbox2,.hbox3,.hbox4,.hbox5{

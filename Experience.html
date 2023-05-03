@@ -26,8 +26,17 @@
 
     <div class="container-fluid " style="background-color: rgba(225,225,225,0.85);">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+            <div class="container" onclick="myFunction(this)">
+                <div class="bar1"></div>
+                <div class="bar2"></div>
+                <div class="bar3"></div>
+            </div>
+
+            <script>
+                function myFunction(x) {
+                    x.classList.toggle("change");
+                }
+            </script>        </button>
         <div class="collapse navbar-collapse justify-content-center" id="navbarTogglerDemo01">
 
 
@@ -69,7 +78,7 @@
 
 
 
-        <h3 class="fw-bold home_some_info_titles" style="padding: 10px;margin-bottom: 20px">
+        <h3 class="fw-bold home_some_info_titles animation" style="padding: 10px;margin-bottom: 20px">
             Experience:
         </h3>
 

@@ -19,8 +19,17 @@
 
     <div class="container-fluid " style="background-color: rgba(225,225,225,0.85);">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+            <div class="container" onclick="myFunction(this)">
+                <div class="bar1"></div>
+                <div class="bar2"></div>
+                <div class="bar3"></div>
+            </div>
+
+            <script>
+                function myFunction(x) {
+                    x.classList.toggle("change");
+                }
+            </script>        </button>
         <div class="collapse navbar-collapse justify-content-center" id="navbarTogglerDemo01">
 
 
@@ -58,7 +67,7 @@
     <div class="content_info_page">
 
         <br><br>
-        <p class="pr2c fw-bold">   Officially marks the end of your wonderful journey on my resume page.
+        <p class="pr2c fw-bold ">   Officially marks the end of your wonderful journey on my resume page.
             <br><br>
 
             Thank you for your time. I’m excited that everything I have learned during this times will help me down the road to shape more of my leadership skills, critical thinking, and I already have got the sense of creativity.  </p>
