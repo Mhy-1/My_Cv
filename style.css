@@ -26,13 +26,17 @@ nav{
     margin-bottom: 5px;
 
 }
+.nav-link{
+    color: #ffffff;
+}
+
 a:hover{
-    background-color: rgba(3, 138, 255, 1);
+    background-color: rgb(255, 255, 255);
     transition: background-color 0.5s;
 
 }
 .nav-link:hover{
-    color: #ffffff;
+    color: #000000;
 }
 
 footer{
