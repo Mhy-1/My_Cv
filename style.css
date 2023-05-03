@@ -120,13 +120,13 @@ width: 100%;
 .pr1h{
     color: white;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Adamina', serif;
     font-style: normal;
 
 }
 .pr2h{
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Adamina', serif;
     font-style: normal;
     color: white;
 
@@ -518,16 +518,16 @@ width: 100%;
 
 .pr1c{
 
-    font-size: 21px;
-    font-family: sans-serif;
+    font-size: 22px;
+    font-family: 'Adamina', serif;
     font-style: normal;
     color: white;
 
 }
 .pr2c{
 
-    font-size: 17px;
-    font-family: sans-serif;
+    font-size: 18px;
+    font-family: 'Adamina', serif;
     font-style: normal;
     color: white;
 
@@ -669,7 +669,7 @@ width: 100%;
     body {
         background-size: auto;
         height: auto;
-        font-family: 'Adamina', serif;font-size: 12px
+        font-family: 'Adamina', serif;
 
 
     }
@@ -696,10 +696,26 @@ width: 100%;
     .cv_download{
         width: 80%;
     }
+    li{
+        font-size: 16px;
+
+    }
 
 
     .inside_some_info{
-        font-size: 30px;
+        font-size: 25px;
+        font-family: 'Adamina', serif;
+
+    }
+    .pr1c.pr2c.pr1h.pr2h.fw-bold{
+        font-size: 25px;
+        font-family: 'Adamina', serif;
+
+    }
+    .content_info_page{
+        font-size: 25px;
+        font-family: 'Adamina', serif;
+
     }
 
 
