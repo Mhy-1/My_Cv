@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a731c95c-3270-4dab-852f-320019ce0637" name="Changes" comment="last update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eduaction.html" beforeDir="false" afterPath="$PROJECT_DIR$/Eduaction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/Experience.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Works.html" beforeDir="false" afterPath="$PROJECT_DIR$/Works.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +91,7 @@
       <workItem from="1682758283242" duration="38000" />
       <workItem from="1683027324435" duration="1869000" />
       <workItem from="1683119643859" duration="8685000" />
-      <workItem from="1683131981831" duration="6802000" />
+      <workItem from="1683131981831" duration="7238000" />
     </task>
     <task id="LOCAL-00001" summary="last update">
       <created>1681944874171</created>
@@ -218,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683138781431</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="last update">
+      <created>1683139392401</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683139392401</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
